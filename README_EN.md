@@ -2,6 +2,8 @@
 
 ---
 
+![logo](images/icon-256.png)
+
 ## Main Features
 
 - Browse and play music from your Jellyfin server
@@ -15,12 +17,12 @@
 
 ---
 
-![apptv](images/apptv-展示图cn_1.jpg)
-![apptv](images/apptv-展示图cn_2.jpg)
-![apptv](images/apptv-展示图cn_3.jpg)
-![apptv](images/apptv-展示图cn_4.jpg)
-![apptv](images/apptv-展示图cn_5.jpg)
-![apptv](images/apptv-展示图cn_6.jpg)
+![apptv](images/en/apptv_en_1-80.jpg)
+![apptv](images/en/apptv_en_2-80.jpg)
+![apptv](images/en/apptv_en_3-80.jpg)
+![apptv](images/en/apptv_en_4-80.jpg)
+![apptv](images/en/apptv_en_5-80.jpg)
+![apptv](images/en/apptv_en_6-80.jpg)
 
 ## Download
 

@@ -3,6 +3,8 @@
 
 ---
 
+![logo](images/icon-256.png)
+
 ## 简介
 
 **音狐音乐（YinHu Music）** 是一款专为 Jellyfin emby  打造的多平台音乐客户端，支持 iOS、macOS、tvOS 以及 CarPlay，并集成了 Siri 语音控制，带来极致的 Jellyfin 音乐体验。
